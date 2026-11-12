@@ -1,0 +1,8 @@
+[project]
+name = "csv-row-filter"
+version = "0.1.0"
+description = "Filter CSV rows by exact column value"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
